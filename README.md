@@ -1,6 +1,7 @@
 ### Hi there, I'm Victor ✌🤖
 
-[![Website](https://img.shields.io/website?label=victorsnz.github.io&style=for-the-badge&url=https%3A%2F%2Fvictorsnz.github.io)](https://victorsnz.github.io)
+
+[![Website](https://img.shields.io/website?label="visit my website"&style=for-the-badge&url=https%3A%2F%2Fvictorsnz.github.io)](https://victorsnz.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/VictorSNZ89?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVictorSNZ89&screen_name=VictorSNZ89)
 
 ## I'm a Developer from Corrientes, Argentina!
@@ -11,9 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="victorsnz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="VictorSNZ89 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="victorsanchez89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="victorsnz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
