@@ -1,13 +1,9 @@
-### Hi there, I'm Victor ✌🤖
+### Hi there, I'm Victor, I'm a Developer from Corrientes, Argentina! ✌🤖
 
-
-[![Website](https://img.shields.io/website?label=victorsnz.github.io&style=for-the-badge&url=https%3A%2F%2Fvictorsnz.github.io)](https://victorsnz.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/VictorSNZ89?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVictorSNZ89&screen_name=VictorSNZ89)
-
-## I'm a Developer from Corrientes, Argentina!
-
+- 🔭 I’m currently working on side projects (side projects everywhere! 😱)
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to read books, watch movies/series and listening to music.
+- 😀 I love to read books, watch movies/series and listening to music.
+- ⚡ Fun fact: I'm trying to learn how to play the melodica 🤷‍♂️
 
 ### Connect with me:
 
@@ -32,7 +28,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
----
 
 [website]: https://victorsnz.github.io
 [twitter]: https://twitter.com/VictorSNZ89
