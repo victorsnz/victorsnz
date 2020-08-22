@@ -26,15 +26,15 @@
 </p>
 <p align="center">
     <a href="https://twitter.com/victorsnz89" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="victorsnz89" height="30" width="30" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="victorsnz89" height="20" width="20" />
     </a>
     <a href="https://linkedin.com/in/victorsanchez89" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victorsanchez89" height="30" width="30" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victorsanchez89" height="20" width="20" />
     </a>
     <a href="https://fb.com/victoradolfosanchez" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="victoradolfosanchez" height="30" width="30" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="victoradolfosanchez" height="20" width="20" />
     </a>
     <a href="https://instagram.com/victorsnz" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorsnz" height="30" width="30" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorsnz" height="20" width="20" />
     </a>
 </p>
