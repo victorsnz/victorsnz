@@ -1,4 +1,8 @@
-<h1 align="center">Hi human!👋, I'm Victor Sanchez</h1>
+<h1 align="center">Hi human!👋, I'm Victor     
+
+![Banner](img/banner.png)
+
+</h1>
 
 <span align="center">
 
@@ -12,7 +16,7 @@
 
 - 🌱 I’m currently learning **everything! 😅**
 
-- 👨‍💻 You can visit my web portfolio at [victorsnz.web.app](https://victorsnz.web.app)
+- 👨‍💻 You can visit my web portfolio at **[victorsnz.web.app](https://victorsnz.web.app)**
 
 - 📫 How to reach me **victor_sanchez@outlook.com** or **sanchez.v.a@gmail.com**
 
