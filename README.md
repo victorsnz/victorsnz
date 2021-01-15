@@ -1,6 +1,10 @@
 <h1 align="center">Hi human!👋, I'm Victor Sanchez</h1>
 
+<span align="center">
+
 ![Banner](img/banner.png)
+
+<span>
 
 - 🔭 I’m currently working on **personal projects 🤓**
 
