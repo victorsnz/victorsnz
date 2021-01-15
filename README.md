@@ -1,9 +1,6 @@
-<h1 align="center">Hi human!👋, I'm Victor     
+<h1 align="center">Hi human!👋, I'm Victor</h1>
 
 ![yo](img/victor.png)
-
-</h1>
-
 <span align="center">
 
 ![Banner](img/banner.png)
