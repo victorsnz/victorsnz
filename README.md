@@ -6,6 +6,8 @@
 
 <span>
 
+<span align="left">
+
 - 🔭 I’m currently working on **personal projects 🤓**
 
 - 🌱 I’m currently learning **everything! 😅**
@@ -15,6 +17,8 @@
 - 📫 How to reach me **victor_sanchez@outlook.com** or **sanchez.v.a@gmail.com**
 
 - ⚡ Fun fact **I wrote a tale about a superhero and it got publish on a book 🦸‍♂️**
+
+<span>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
