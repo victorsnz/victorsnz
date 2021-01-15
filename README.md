@@ -6,7 +6,7 @@
 
 <span align="center">
 
-![Banner](img/banner.png)
+![Banner](img/victor.png)
 
 <span>
 
