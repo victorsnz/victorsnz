@@ -1,9 +1,11 @@
 <h1 align="center">Hi human!👋, I'm Victor Sanchez</h1>
-![Banner](/img/banner.png)
+![Banner](./img/banner.png)
 
 - 🔭 I’m currently working on **personal projects 🤓**
 
 - 🌱 I’m currently learning **everything! 😅**
+
+- 👨‍💻 You can visit my web portfolio at [victorsnz.web.app](https://victorsnz.web.app)
 
 - 📫 How to reach me **victor_sanchez@outlook.com** or **sanchez.v.a@gmail.com**
 
@@ -16,9 +18,6 @@
     </a>
     <a href="https://linkedin.com/in/victorsanchez89" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="victorsanchez89" height="25" width="35" />
-    </a>
-    <a href="https://instagram.com/victorsnz" target="blank">
-        <img align="center" src="https://www.flaticon.es/svg/vstatic/svg/2111/2111463.svg?token=exp=1610685891~hmac=0540dbd7be0a48f782b3a78a1536f7c9" alt="victorsnz" height="25" width="35" />
     </a>
 </p>
 
