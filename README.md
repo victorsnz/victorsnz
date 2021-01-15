@@ -1,4 +1,4 @@
-<h1 align="center">Hi human!👋, I'm Victor <img src="img/victor.png" /> </h1>
+<h1 align="center">Hi human!👋, I'm Victor</h1>
 
 <span align="center">
 
