@@ -1,12 +1,12 @@
 <h1 align="center">Hi human!👋, I'm Victor     
 
-![Banner](img/banner.png)
+![yo](img/victor.png)
 
 </h1>
 
 <span align="center">
 
-![Banner](img/victor.png)
+![Banner](img/banner.png)
 
 <span>
 
