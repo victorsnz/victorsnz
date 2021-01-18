@@ -8,7 +8,7 @@
 
 <span align="left">
 
-- 🔭 I’m currently working on **personal projects 🤓**
+- 🔭 I’m currently working on **[personal projects](http://victorsnz.github.io/) 🤓**
 
 - 🌱 I’m currently learning **everything! 😅**
 
