@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **victor_sanchez@outlook.com** or **sanchez.v.a@gmail.com**
 
-- ⚡ Fun fact **I wrote a tale about a superhero and it got publish on a book 🦸‍♂️**
+- ⚡ Fun fact **I'm learning to play the ukulele**
 
 <span>
 
@@ -32,6 +32,6 @@
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
-    Arduino / Bootstrap / C# / CSS / .NET / ExpressJS / Firebase / Git / HTML / JavaScript / MySQL / Linux / NodeJS / Photoshop / Postman / React / Adobe XD
+    Arduino / Bootstrap / C# / CSS / .NET / Firebase / Git / HTML / JavaScript / Linux / NodeJS / Photoshop / Postman / React / SQL
 </p>
 
